@@ -4,3 +4,4 @@
 测试diff功能
 再次测试一次git
 git test #1!
+git test #2!
